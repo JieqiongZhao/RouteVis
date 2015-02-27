@@ -1,0 +1,19 @@
+.node {
+	//fill: #E41A1C;
+	fill: grey;
+}
+
+.nodeText {
+	font-family: sans-serif;
+	font-size: 13px;
+	//fill: #FFFF47;
+	fill: #FFFFFF;
+	text-anchor: middle;
+}
+
+#mapDiv {
+	width: 1000px;
+	height: 700px;
+	padding: 25px;
+	//background-color: lightgrey;
+}
